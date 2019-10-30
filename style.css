@@ -25,7 +25,7 @@
 
 body {
   background-color: #111111;
-  color: #000000;
+  color: #FFFFFF;
   font-family: 'Roboto', sans-serif;
   font-size: 17px;
   font-weight: lighter;
@@ -41,7 +41,7 @@ h1 {
 
 
 h2 {
-  color: #000000;
+  color: #FFFFFF;
   font-size: 20px;
   font-weight: 150px;
 }
@@ -70,7 +70,7 @@ h2 {
 }
 
 a:hover {
-color: #414345;
+color: #FFFFFF;
 }
 .btn-discover {
   background-color: #232526;
